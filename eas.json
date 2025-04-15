@@ -1,0 +1,9 @@
+{
+    "build": {
+        "apk-debug": {
+            "android": {
+                "buildType": "apk"
+            }
+        }
+    }
+}
